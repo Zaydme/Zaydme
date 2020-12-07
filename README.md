@@ -84,4 +84,6 @@
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Zaydme&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />&nbsp;
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaydme&layout=compact&count_private=true&theme=radical" alt="zaydme" />
+        <a href="https://microsoft.enjinx.io/eth/asset/98099691" title="Microsoft OpenSourcer badger"><img src="https://i.ibb.co/5Kk6kjk/65698bcc4a2c8212e2da916b4ab31f77bd872f99.webp" alt="OpenSourcer badger" border="0" width="150px"></a>
+
 </p>
