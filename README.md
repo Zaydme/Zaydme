@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zayd 😄✌️</h1>
-<h3 align="center">a medical student 🩺 who loves coding 💻</h3>
+<h3 align="center">a Full Stack Web Developer 💻</h3>
 <p align="center">
     <a text-decoration="none" href="https://nodejs.org/" title="Node.js">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
