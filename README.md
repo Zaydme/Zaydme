@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Zayd 😄✌️</h1>
 <h3 align="center">a Full Stack Web Developer 💻</h3>
 <p align="center">
@@ -28,6 +29,12 @@
     <a href="https://reactjs.org/" title="ReactJs">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
+    <a href="https://nextjs.org/" title="NextJs">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" title="TailwindCSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" />
+    </a>
     <a href="https://redis.io/" title="Redis">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
     </a>
@@ -57,7 +64,10 @@
         <img src="https://brand.heroku.com/static/media/heroku-logotype-vertical.f7e1193f.svg" alt="heroku" width="40" height="40" />
     </a>
     <a href="https://discord.js.org/" title="DiscordJs">
-        <img src="https://discord.js.org/static/logo-square.png" alt="discordjs" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" title="Docker">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="pm2" width="40" height="40" />
     </a>
     <a href="https://pm2.keymetrics.io/" title="PM2">
         <img src="https://cdn.opsmatters.com/sites/default/files/logos/pm2-thumb.png" alt="pm2" width="40" height="40" />
@@ -87,3 +97,5 @@
         <a href="https://microsoft.enjinx.io/eth/asset/688000000000091c/368" title="Microsoft OpenSourcer badger"><img src="https://i.ibb.co/5Kk6kjk/65698bcc4a2c8212e2da916b4ab31f77bd872f99.webp" alt="OpenSourcer badger" border="0" width="150px"></a>
 
 </p>
+
+    
