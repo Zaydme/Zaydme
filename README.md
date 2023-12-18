@@ -70,7 +70,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="pm2" width="40" height="40" />
     </a>
     <a href="https://pm2.keymetrics.io/" title="PM2">
-        <img src="https://cdn.opsmatters.com/sites/default/files/logos/pm2-thumb.png" alt="pm2" width="40" height="40" />
+        <img src="https://cdn2.opsmatters.com/sites/default/files/logos/pm2-thumb.png" alt="pm2" width="40" height="40" />
     </a>
     <a href="https://www.npmjs.com/" title="Node Package Manager">
         <img src="https://clipground.com/images/npm-logo-png-6.png" alt="npm" width="40" height="40" />
@@ -90,6 +90,7 @@
     <a href="https://git-scm.com/" title="Git">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
+    <span>+ More (Outdated README, too lazy to update :weary_face:)</span>
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Zaydme&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />&nbsp;
