@@ -1,102 +1,26 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png"><img src="assets/header-light.png" width="840" alt="Zayd, full-stack developer and DevOps. Web, infrastructure, systems and games."></picture>
 
-<h1 align="center">Hi, I'm Zayd 😄✌️</h1>
-<h3 align="center">a Full Stack Web Developer 💻</h3>
-<p align="center">
-    <a text-decoration="none" href="https://nodejs.org/" title="Node.js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org/" title="Python">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://www.arduino.cc/" title="Arduino">
-        <img src="https://www.arduino.cc/en/uploads/Trademark/ARDUINO_logo.jpg" alt="arduino" width="40" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS2/" title="Cascading Style Sheet">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://html.spec.whatwg.org/" title="HyperText Markup Language">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" title="VueJs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" title="ReactJs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" title="NextJs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" title="TailwindCSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" />
-    </a>
-    <a href="https://redis.io/" title="Redis">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" title="MongoDB">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="http://expressjs.com/" title="ExpressJs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org/" title="ElectronJs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com/" title="Bootstrap">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://canvasjs.com/" title="CanvasJs">
-        <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
-    </a>
-    <a href="https://www.chartjs.org/" title="ChartJS">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" title="Figma">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
-    <a href="https://heroku.com/" title="Heroku">
-        <img src="https://brand.heroku.com/static/media/heroku-logotype-vertical.f7e1193f.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://discord.js.org/" title="DiscordJs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" title="Docker">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="pm2" width="40" height="40" />
-    </a>
-    <a href="https://pm2.keymetrics.io/" title="PM2">
-        <img src="https://cdn2.opsmatters.com/sites/default/files/logos/pm2-thumb.png" alt="pm2" width="40" height="40" />
-    </a>
-    <a href="https://www.npmjs.com/" title="Node Package Manager">
-        <img src="https://clipground.com/images/npm-logo-png-6.png" alt="npm" width="40" height="40" />
-    </a>
-    <a href="https://cloudflare.org" title="Cloudflare">
-        <img src="https://www.cloudflare.com/img/cf-facebook-card.png" alt="cloudflare" width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40" />
-    </a>
-    <a href="https://www.linuxfoundation.org/" title="Linux">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a title="Bash">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" title="Git">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <span>+ More (Outdated README, too lazy to update :weary_face:)</span>
-</p>
-<p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Zaydme&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />&nbsp;
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaydme&layout=compact&count_private=true&theme=radical" alt="zaydme" />
-        <a href="https://microsoft.enjinx.io/eth/asset/688000000000091c/368" title="Microsoft OpenSourcer badger"><img src="https://i.ibb.co/5Kk6kjk/65698bcc4a2c8212e2da916b4ab31f77bd872f99.webp" alt="OpenSourcer badger" border="0" width="150px"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/feature-dark.webp"><img src="assets/feature-light.webp" width="840" alt="Featured project: OpenAoK, Age of Empires II: The Age of Kings rebuilt from scratch. A walled Castle Age town after thirty minutes of play."></picture>
 
-</p>
+OpenAoK plays the 1999 game from your own copy of the CD, with the original rules, random maps, campaigns and computer players: one codebase for Windows, macOS, Linux, Android, iPhone and iPad, and the Nintendo Switch.<br>
+[Repository](https://github.com/Zaydme/openaok) &nbsp;&middot;&nbsp; [Documentation](https://zaydme.github.io/openaok/) &nbsp;&middot;&nbsp; [Releases](https://github.com/Zaydme/openaok/releases)
 
-    
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/how-it-works-dark.png"><img src="assets/how-it-works-light.png" width="840" alt="How OpenAoK works: your CD is read once into game data (rules, art and sound, text, maps and AI scripts). Players give orders, mouse, touch and controller or other players in lockstep over the network, to a simulation in 32.32 fixed point on a 16 ms tick that is bit for bit the same on every machine. What you see, the sprites, the 1999 interface and the sound, reads the simulation and never changes it. A platform layer on SDL 2, with Metal on iPhone and iPad, runs it on macOS, Windows, Linux, Android, iOS and the Nintendo Switch."></picture>
+
+### Selected work
+
+| Project | Work | Built with | Notes |
+|:--|:--|:--|:--|
+| [**OpenAoK**](https://github.com/Zaydme/openaok) | An engine for *Age of Empires II*, written from scratch, that plays the 1999 game from your own CD | C++20, SDL 2, EnTT | Six platforms |
+| [**strapi-plugin-multi-select**](https://github.com/Zaydme/strapi-plugin-multi-select) | A multi-select custom field for the Strapi CMS | TypeScript, Strapi | 1.6M npm downloads |
+| **Private platforms** | Head developer and system administrator for large production platforms: architecture, infrastructure, deployment and operations | Linux, Kubernetes, Docker Swarm, AWS, GCP, PostgreSQL, Proxmox, pgBackRest, Node.js, Go, Ruby on Rails, and more | Private |
+| [**FightPandemics**](https://github.com/FightPandemics/FightPandemics) | A volunteer platform for local help during COVID-19. Built its real-time direct messaging over WebSockets, web notifications, organisation accounts and verified badges, and its moderation and BI dashboards | React, Fastify, Socket.IO, Redis, MongoDB | Senior full-stack developer, 2020 to 2021 |
+| [**SVTrain**](https://github.com/com2u/SVTrain) | A tool for labelling images and training deep learning models on them. Built its file upload, workspace manager, colormaps, AI reports and statistics, and moved its image data to SQLite with caching for faster loading | Vue, Node.js, SQLite | Second-largest contributor, 2022 |
+| [**polygon-faucet**](https://github.com/Zaydme/polygon-faucet) | A community faucet for Polygon's MATIC token, built and run | Next.js, Fastify, web3.js | 10,036 transactions sent |
+| Others | Early experiments: simulations, a neural network that learns Flappy Bird, an unofficial Reddit client with Discord Rich Presence | p5.js, TensorFlow.js, Electron | 2019 |
+
+<br>
+
+<a href="https://etherscan.io/tx/0xc39cdf6e55981b48a60b5bdd5baa768c750218aaf93700ee4524f592386b68d2" title="Microsoft OpenSourcer badge"><img src="assets/footer-ink.png" width="840" alt="Microsoft OpenSourcer badge, an Enjin NFT"></a>
